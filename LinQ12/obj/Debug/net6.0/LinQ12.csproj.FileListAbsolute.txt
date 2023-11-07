@@ -1,0 +1,14 @@
+C:\Users\leand\source\repos\LINQ\LinQ12\bin\Debug\net6.0\LinQ12.exe
+C:\Users\leand\source\repos\LINQ\LinQ12\bin\Debug\net6.0\LinQ12.deps.json
+C:\Users\leand\source\repos\LINQ\LinQ12\bin\Debug\net6.0\LinQ12.runtimeconfig.json
+C:\Users\leand\source\repos\LINQ\LinQ12\bin\Debug\net6.0\LinQ12.dll
+C:\Users\leand\source\repos\LINQ\LinQ12\bin\Debug\net6.0\LinQ12.pdb
+C:\Users\leand\source\repos\LINQ\LinQ12\obj\Debug\net6.0\LinQ12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\source\repos\LINQ\LinQ12\obj\Debug\net6.0\LinQ12.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\LINQ\LinQ12\obj\Debug\net6.0\LinQ12.AssemblyInfo.cs
+C:\Users\leand\source\repos\LINQ\LinQ12\obj\Debug\net6.0\LinQ12.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\LINQ\LinQ12\obj\Debug\net6.0\LinQ12.dll
+C:\Users\leand\source\repos\LINQ\LinQ12\obj\Debug\net6.0\refint\LinQ12.dll
+C:\Users\leand\source\repos\LINQ\LinQ12\obj\Debug\net6.0\LinQ12.pdb
+C:\Users\leand\source\repos\LINQ\LinQ12\obj\Debug\net6.0\LinQ12.genruntimeconfig.cache
+C:\Users\leand\source\repos\LINQ\LinQ12\obj\Debug\net6.0\ref\LinQ12.dll
